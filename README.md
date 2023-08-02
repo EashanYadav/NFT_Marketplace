@@ -1,6 +1,7 @@
 # Basic NFT Marketplace end to end
 
-This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
+This a NFT Marketplace Project deployed on Goerli Testnet. You can list your NFT's and buy and sell them too.
+Happy minting!!! :)
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
