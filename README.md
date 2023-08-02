@@ -5,8 +5,8 @@ Happy minting!!! :)
 
 To set up the repository and run the marketplace locally, run the below
 ```bash
-git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
-cd NFT-Marketplace-Tutorial
+git clone https://github.com/EashanYadav/NFT_Marketplace.git
+cd NFT_Marketplace
 npm install
 npm start
 ```
